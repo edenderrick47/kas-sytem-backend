@@ -1,13 +1,13 @@
  <?php
     // *************************************************************************
     // *                                                                       *
-    // * DEPRIXA PRO -  Integrated Web Shipping System                         *
-    // * Copyright (c) JAOMWEB. All Rights Reserved                            *
+    // * CARGO PRO -  Integrated Web Shipping System                         *
+    // * Copyright (c) DOTCREATIVE. All Rights Reserved                            *
     // *                                                                       *
     // *************************************************************************
     // *                                                                       *
-    // * Email: support@jaom.info                                              *
-    // * Website: http://www.jaom.info                                         *
+    // * Email: info@dotcreative.co.ke                                              *
+    // * Website: http://dotcreative.co.ke                                         *
     // *                                                                       *
     // *************************************************************************
     // *                                                                       *

@@ -41,7 +41,7 @@
 						</a>
 					</li>
 
-					<li class="nav-small-cap"> <span class="hide-menu"></span></li>
+				
 
 					<li class="sidebar-item">
 						<a class="sidebar-link waves-effect waves-dark" href="index.php" aria-expanded="false">
@@ -632,12 +632,7 @@
 				<!-- end MODULE LOCATIONS  -->
 
 
-				<li class="sidebar-item">
-					<a class="sidebar-link waves-effect waves-dark" href="verify_update.php" aria-expanded="false">
-						<i class="ti-info-alt"></i>
-						<span class="hide-menu"> <?php echo $lang['left-menu-sidebar-61'] ?></span>
-					</a>
-				</li>
+			
 
 				</ul>
 

@@ -1,21 +1,20 @@
 <?php
 // *************************************************************************
 // *                                                                       *
-// * DEPRIXA PRO -  Integrated Web Shipping System                         *
-// * Copyright (c) JAOMWEB. All Rights Reserved                            *
+// * CARGO PRO -  Integrated Web Shipping System                         *
+// * Copyright (c) DOTCREATIVE. All Rights Reserved                            *
 // *                                                                       *
 // *************************************************************************
 // *                                                                       *
-// * Email: support@jaom.info                                              *
-// * Website: http://www.jaom.info                                         *
+// * Email: info@dotcreative.co.ke                                              *
+// * Website: http://dotcreative.co.ke                                         *
 // *                                                                       *
 // *************************************************************************
 // *                                                                       *
 // * This software is furnished under a license and may be used and copied *
 // * only  in  accordance  with  the  terms  of such  license and with the *
 // * inclusion of the above copyright notice.                              *
-// * If you Purchased from Codecanyon, Please read the full License from   *
-// * here- http://codecanyon.net/licenses/standard                         *
+// *                          *
 // *                                                                       *
 // *************************************************************************
 
@@ -252,7 +251,7 @@ $lang = array(
 	"validation-js-1" => "Error! Sorry, the file size is too large. Please select files smaller than 5 MB.",
 	"validation-js-2" => "Enter country",
 	"validation-js-3" => "Enter the city",
-	"validation-js-4" => "Enter the status",
+	"validation-js-4" => "Enter the state",
 	"validation-js-5" => "Enter zip code",
 	"validation-js-6" => "Enter address",
 	"validation-js-7" => "The discount cannot be greater than the subtotal",
@@ -587,7 +586,7 @@ $lang = array(
 
 
 
-	"dash-general-1" => "shipments",
+	"dash-general-1" => "Shipments",
 	"dash-general-2" => "Pickups",
 	"dash-general-220" => "Delivered Pickups",
 	"dash-general-221" => "Rejected Pickups",
@@ -613,7 +612,7 @@ $lang = array(
 
 
 	"dash-general-13" => "Users",
-	"dash-general-14" => "Seper Admin",
+	"dash-general-14" => "Super Admins",
 	"dash-general-15" => "Managers",
 	"dash-general-16" => "Drivers",
 	"dash-general-17" => "Customers",
@@ -624,7 +623,7 @@ $lang = array(
 	"dash-general-21" => "List of consolidations",
 	"dash-general-22" => "Pre Alert List",
 	"dash-general-23" => "List of registered packages",
-	"dash-general-24" => "Overview of the last month",
+	"dash-general-24" => "Overview of the Last month",
 	"dash-general-244" => "Last month summary",
 	"dash-general-25" => "Shipments delivered",
 	"dash-general-26" => "Sales Graph",
@@ -1453,13 +1452,13 @@ $lang = array(
 
 	"leftorder317" => "Find States",
 	"leftorder318" => "Country",
-	"leftorder319" => "Status",
+	"leftorder319" => "State",
 	"leftorder320" => "City",
 	"leftorder321" => "List of states",
-	"leftorder322" => "Add Status",
+	"leftorder322" => "Add State",
 	"leftorder323" => "State Name",
 	"leftorder324" => "Save state",
-	"leftorder325" => "Edit Status",
+	"leftorder325" => "Edit State",
 
 	"leftorder326" => "Find cities",
 	"leftorder327" => "List of cities",
@@ -1880,7 +1879,7 @@ $lang = array(
 	"left1002" => "Address 1:",
 	"left1003" => "Address 2:",
 	"left1004" => "City:",
-	"left1005" => "Status:",
+	"left1005" => "State:",
 	"left1006" => "Zip Code:",
 	"left1007" => "#Phone:",
 	"left1008" => "Overview",
